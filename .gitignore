@@ -1,0 +1,18 @@
+# Visual Studio related
+.vs/
+*.user
+*.suo
+*.log
+*.dbmdl
+*.psess
+*.vsp
+*.vspx
+*.ncb
+*.sdf
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+bin/
+obj/
